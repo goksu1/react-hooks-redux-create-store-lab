@@ -37,5 +37,9 @@
     "presets": [
       "@babel/preset-env"
     ]
+  },
+  "dependencies": {
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.2"
   }
 }
